@@ -12,12 +12,14 @@
 <ul></ul>
 <ul>6. Type git clone, and then paste the URL you copied earlier.</ul>
 <ul>7. Press Enter to create your local clone.</ul> 
-<ul>8. To run the project properly creation  and activation of virtual environment needed. For this, run below 2 commands:
+<ul>8. Enter to cloned directory by the command : cd "project name"</ul>
+<ul>9. To run the project properly creation  and activation of virtual environment needed. For this, run below 2 commands:
 <p>>>> python -m venv venv</p>
 <p>>>> Scripts\activate.bat</p>
 </ul>
-<ul>9. To run application type command: python manage.py runserver </ul>
-<ul>10. Thank you for interesting in my project</ul>
+<ul>10. To run application type command: python manage.py runserver </ul>
+<ul>11. To run application type command: python manage.py runserver </ul>
+<ul>11. Thank you for interesting in my project</ul>
 
 Bellow is a link to my github account. 
 
